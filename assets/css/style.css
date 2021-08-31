@@ -1,0 +1,39 @@
+.main-header {
+  color: #ff000034;
+  text-align:center;
+  text-transform: uppercase;
+  font-family: 'Allison', cursive;
+  
+  
+
+}
+
+
+.article-header {
+  color: blueviolet;
+  font-size: 36px;
+   text-transform: capitalize; 
+   font-family: 'Montserrat', sans-serif;
+}
+
+.article-header+p {
+  color: blue;
+  font-size: 32px;
+  font-weight: 400;
+  font-style: italic;
+  font-family: 'Roboto Slab', serif;
+  
+  line-height: 1.3em;
+  text-align: justify;
+  
+}
+
+.page-link{
+  text-decoration: line-through 3px wavy rgb(207, 90, 90);
+  
+}
+
+.aligne-center{
+  text-align: center;
+  font-size: 34px;
+}
